@@ -1,0 +1,24 @@
+img {
+    width: 200px;
+}
+h1 {
+    color: blue;
+    background-color: red;
+}
+h2 {
+    background: antiquewhite;
+}
+a {
+    text-decoration: none;
+    color: brown;
+}
+a:hover {
+    color: red;
+}
+p {
+    background: coral;
+}
+
+li {
+    background-color: aqua;
+}
