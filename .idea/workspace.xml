@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="319a1064-bfb8-4d52-81e5-2e53156311e1" name="Changes" comment="+blue box" />
+    <list default="true" id="319a1064-bfb8-4d52-81e5-2e53156311e1" name="Changes" comment="create proj" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +16,14 @@
         <option value="HTML File" />
         <option value="CSS File" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -68,7 +76,7 @@
       <workItem from="1674150681513" duration="6118000" />
       <workItem from="1674233128030" duration="2158000" />
       <workItem from="1674308521876" duration="2145000" />
-      <workItem from="1674422050870" duration="2473000" />
+      <workItem from="1674422050870" duration="2787000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1674145888945</created>
@@ -105,7 +113,35 @@
       <option name="project" value="LOCAL" />
       <updated>1674424463089</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="+blue box">
+      <created>1674424642904</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674424642904</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix">
+      <created>1674424677388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674424677388</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create proj">
+      <created>1674424733411</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674424733411</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create proj">
+      <created>1674424783096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674424783096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +164,9 @@
     <MESSAGE value="." />
     <MESSAGE value="hw1 done" />
     <MESSAGE value="+blue box" />
-    <option name="LAST_COMMIT_MESSAGE" value="+blue box" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="create proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="create proj" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
