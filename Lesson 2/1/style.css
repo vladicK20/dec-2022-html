@@ -1,8 +1,8 @@
 body {
     border: grey solid 5px;
+    margin: 0 auto;
     border-radius: 10px;
     width: 1000px;
-    margin: 0 auto;
 }
 
 .main {
@@ -11,7 +11,6 @@ body {
 }
 
 .widget_home {
-    width: 100%;
     color: white;
     font-size: 40px;
     height: 400px;
@@ -24,8 +23,9 @@ body {
 
 .widget_box {
     display: flex;
-    height: 300px;
     justify-content: space-between;
+    margin-top: 10px;
+    height: 300px;
 }
 
 .widgets {
@@ -36,12 +36,10 @@ body {
     color: white;
     font-size: 30px;
     background-color: #15457B;
-    margin-top: 10px;
     border-radius: 10px;
 }
 
 .contact {
-    width: 100%;
     color: white;
     font-size: 40px;
     height: 400px;
