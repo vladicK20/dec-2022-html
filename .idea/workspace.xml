@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="319a1064-bfb8-4d52-81e5-2e53156311e1" name="Changes" comment="homework2 done">
+    <list default="true" id="319a1064-bfb8-4d52-81e5-2e53156311e1" name="Changes" comment="homework3 done">
+      <change afterPath="$PROJECT_DIR$/Lesson 4/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 4/1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 4/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 4/2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 2/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 2/2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -64,6 +66,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson 4/1" />
       <recent name="$PROJECT_DIR$/Lesson 2/1" />
     </key>
   </component>
@@ -82,7 +85,8 @@
       <workItem from="1674308521876" duration="2145000" />
       <workItem from="1674422050870" duration="14488000" />
       <workItem from="1674586645542" duration="45000" />
-      <workItem from="1674842037940" duration="2676000" />
+      <workItem from="1674842037940" duration="6037000" />
+      <workItem from="1674849131856" duration="4945000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1674145888945</created>
@@ -175,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674586656154</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework3 done">
+      <created>1674845767547</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674845767547</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +212,8 @@
     <MESSAGE value="create proj" />
     <MESSAGE value="fix" />
     <MESSAGE value="homework2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework2 done" />
+    <MESSAGE value="homework3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework3 done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
