@@ -1,0 +1,230 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-size: 32px;
+}
+
+:root {
+    --gray: #676767;
+    --rose: #EB8280
+}
+
+p {
+    color: var(--rose);
+}
+
+.main_section {
+    background-color: whitesmoke;
+    width: 1000px;
+}
+
+.header_section {
+    margin-bottom: 10px;
+}
+
+.flex_row {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.flex_column {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: center;
+}
+
+.logo {
+    width: 200px;
+    height: 150px;
+    background-color: var(--gray)
+}
+
+.header {
+    width: 800px;
+    height: 150px;
+    background-color: var(--gray);
+}
+
+.nav {
+    width: 200px;
+    height: 700px;
+    background-color: var(--gray);
+}
+
+.tool-section-two {
+    display: none;
+}
+
+.store {
+    width: 200px;
+    height: 150px;
+    background-color: var(--gray);
+}
+
+.tools {
+    width: 200px;
+    height: 150px;
+    background-color: var(--gray);
+}
+
+.intro {
+    width: 580px;
+    height: 300px;
+    background-color: var(--gray);
+}
+
+.ad {
+    width: 200px;
+    height: 300px;
+    background-color: var(--gray);
+}
+
+.baths {
+    width: 580px;
+    height: 710px;
+    background-color: var(--gray);
+}
+
+.products {
+    width: 200px;
+    height: 710px;
+    background-color: var(--gray);
+}
+
+.footer_section {
+    width: 1000px;
+    height: 200px;
+    background-color: var(--gray);
+    margin-top: 10px;
+}
+
+@media screen and (min-width: 0) and (max-width: 993px) {
+    * {
+        margin: 0 auto;
+        padding: 0;
+        font-size: 26px;
+    }
+
+    :root {
+        --gray: #676767;
+        --rose: #EB8280
+    }
+
+    p {
+        color: var(--rose);
+    }
+
+    .main_section {
+        background-color: whitesmoke;
+        width: 500px;
+        box-sizing: border-box;
+    }
+
+    .header_section {
+        margin-bottom: 10px;
+    }
+
+    .flex_row {
+        display: flex;
+        flex-direction: row;
+        column-gap: 10px;
+        align-items: center;
+    }
+
+    .flex_column {
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+        align-items: center;
+    }
+
+    .header_section {
+        column-gap: 0;
+    }
+
+    .logo {
+        width: 100px;
+        height: 100px;
+        background-color: var(--gray);
+        border-right: 2px solid gray;
+    }
+
+    .header {
+        width: 400px;
+        height: 100px;
+        background-color: var(--gray);
+    }
+
+    .nav {
+        width: 500px;
+        height: 100px;
+        background-color: var(--gray);
+    }
+
+    .tool-section-one {
+        display: none;
+    }
+
+    .tool-section-two {
+        display: flex;
+        flex-direction: row;
+        column-gap: 10px;
+    }
+
+    .middle_section {
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+    }
+
+    .store {
+        width: 245px;
+        height: 150px;
+        background-color: var(--gray);
+    }
+
+    .tools {
+        width: 245px;
+        height: 150px;
+        background-color: var(--gray);
+    }
+
+    .intro {
+        width: 375px;
+        height: 300px;
+        background-color: var(--gray);
+    }
+
+    .ad {
+        width: 115px;
+        height: 300px;
+        background-color: var(--gray);
+    }
+
+    .products_section {
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+    }
+
+    .baths {
+        width: 500px;
+        height: 800px;
+        background-color: var(--gray);
+    }
+
+    .products {
+        width: 500px;
+        height: 300px;
+        background-color: var(--gray);
+    }
+
+    .footer_section {
+        width: 500px;
+        height: 200px;
+        background-color: var(--gray);
+        margin-top: 10px;
+    }
+}
